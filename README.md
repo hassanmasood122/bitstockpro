@@ -1,3 +1,1 @@
-# Backend
-
-Vinance backend configuration.
+BitStockPro is a modern crypto trading platform built using the Vinance (ViserLab) script. This repository contains the frontend structure, configuration files, and documentation used for deploying and customizing the platform for a client project.
