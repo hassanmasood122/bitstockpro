@@ -1,0 +1,8 @@
+{
+  "name": "bitstockpro",
+  "version": "1.0.0",
+  "description": "Crypto trading platform based on Vinance script",
+  "scripts": { "start": "live-server public" },
+  "author": "Motion Animator",
+  "license": "ISC"
+}

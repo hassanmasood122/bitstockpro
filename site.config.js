@@ -1,0 +1,1 @@
+export const siteConfig={siteName:'BitStockPro',domain:'bitstockpro.online',theme:'dark'};
